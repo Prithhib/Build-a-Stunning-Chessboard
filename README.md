@@ -4,7 +4,7 @@ A beautiful, responsive chessboard built with pure **HTML5** and **CSS3**. Perfe
 
 ![Chess Board Preview](https://img.shields.io/badge/HTML5-CSS3-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
 
 ---
 
