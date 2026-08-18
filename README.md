@@ -4,11 +4,11 @@ A beautiful, responsive chessboard built with pure **HTML5** and **CSS3**. Perfe
 
 ![Chess Board Preview](https://img.shields.io/badge/HTML5-CSS3-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -24,7 +24,7 @@ A beautiful, responsive chessboard built with pure **HTML5** and **CSS3**. Perfe
 
 ---
 
-## ✨ Features
+## Features
 
 - 🎨 **Classic Chess Layout** - 8x8 board with all pieces in starting positions
 - ⚫⚪ **Alternating Squares** - Authentic black and white checkered pattern
@@ -36,7 +36,7 @@ A beautiful, responsive chessboard built with pure **HTML5** and **CSS3**. Perfe
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Version | Purpose |
 |-----------|---------|---------|
@@ -46,7 +46,7 @@ A beautiful, responsive chessboard built with pure **HTML5** and **CSS3**. Perfe
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Build-a-Stunning-Chessboard/
@@ -72,13 +72,13 @@ Build-a-Stunning-Chessboard/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No server or build tools required!
 
-### Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -106,7 +106,7 @@ Build-a-Stunning-Chessboard/
 
 ---
 
-## 💻 How to Use
+## How to Use
 
 ### Basic Usage
 1. Download or clone this repository
@@ -124,9 +124,23 @@ Build-a-Stunning-Chessboard/
 | ♘ ♞ | Knight | ♘ | ♞ |
 | ♙ ♟ | Pawn | ♙ | ♟ |
 
+### Current Board State
+```
+  a b c d e f g h
+8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 8
+7 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟ 7
+6 . . . . . . . . 6
+5 . . . . . . . . 5
+4 . . . . . . . . 4
+3 . . . . . . . . 3
+2 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙ 2
+1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 1
+  a b c d e f g h
+```
+
 ---
 
-## 🎨 Customization
+## Customization
 
 ### Change Board Colors
 
@@ -191,7 +205,7 @@ body {
 
 ---
 
-## 🌐 Browser Support
+## Browser Support
 
 | Browser | Support | Notes |
 |---------|---------|-------|
@@ -203,7 +217,7 @@ body {
 
 ---
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 Here are some ideas to extend this project:
 
@@ -222,7 +236,7 @@ Here are some ideas to extend this project:
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 **New to HTML/CSS?** Check out these resources:
 
@@ -234,7 +248,7 @@ Here are some ideas to extend this project:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -254,7 +268,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -268,7 +282,7 @@ You must:
 
 ---
 
-## 🙋 Support & Feedback
+## Support & Feedback
 
 Have questions or suggestions? 
 
@@ -278,7 +292,7 @@ Have questions or suggestions?
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Prithhib**
 
@@ -287,7 +301,7 @@ Have questions or suggestions?
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 By exploring this project, you'll learn:
 
@@ -301,7 +315,7 @@ By exploring this project, you'll learn:
 
 ---
 
-## 📊 Project Statistics
+## Project Statistics
 
 - **Lines of Code**: ~100
 - **File Size**: < 5 KB (total)
@@ -311,7 +325,7 @@ By exploring this project, you'll learn:
 
 ---
 
-## 🎉 Acknowledgments
+## Acknowledgments
 
 - Chess piece Unicode symbols from [Unicode Standard](https://unicode.org/charts/PDF/U2600.pdf)
 - Inspiration from the classic board game of chess
